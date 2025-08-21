@@ -30,6 +30,4 @@ Choose your difficulty, test your luck, and see if you can guess the secret numb
 - **CSS3** – Styling, animations, responsive design  
 - **JavaScript (ES6)** – Game logic, difficulty, scoring, local storage  
 
----
-
-## 📂 Project Structure
+--
